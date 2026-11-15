@@ -1,3 +1,18 @@
+# 2.0.0
+
+Release 2.0.0
+
+Update pagination handling, validation, and documentation.
+
+Changes since 1.0.1:
+
+```text
+README.md          | 14 +++++++++++
+ empflix_api/api.py | 70 ++++++++++++++++++++++++++++++++----------------------
+ pyproject.toml     |  4 ++--
+ 3 files changed, 58 insertions(+), 30 deletions(-)
+```
+
 # Changelog
 
 ## 1.0.1 — 2026-10-27
